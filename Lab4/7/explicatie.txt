@@ -1,0 +1,5 @@
+SNRdb=10log10SNR
+SNRdb=10log10(Psemnal/Pzgomot)
+SNRdb=10log10*Psemnal-10log10*Pzgomot
+80db=90db-Pzgomot
+Pzgomot=10db

@@ -1,0 +1,1 @@
+Daca frecventa se incadreaza intre 40 si 200 hz => frecv maxima este 200hz => fs > 2 * 200 hz => fs>400hz. Deci minimul ar fi 401 hz
